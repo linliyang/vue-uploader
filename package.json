@@ -1,0 +1,22 @@
+{
+  "name": "vue-widget-uploader",
+  "version": "0.0.2",
+  "description": "上传组件",
+  "main": "index.es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:linliyang/vue-uploader.git"
+  },
+  "keywords": [
+    "uploader",
+    "upload"
+  ],
+  "author": "linliyang",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-canvas-to-blob": "^3.14.0"
+  }
+}
