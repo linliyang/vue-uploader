@@ -1,5 +1,5 @@
 {
-  "name": "vue-widget-uploader",
+  "name": "vue-uploader",
   "version": "0.0.2",
   "description": "上传组件",
   "main": "index.es6",
